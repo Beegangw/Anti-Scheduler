@@ -6,4 +6,4 @@ This program will check for deleted tasks and will scan files that match this re
 How to use:
 1. Open cmd as admin
 2. cd into the directory in which strings2.exe and Scheduler.exe is located
-Paste "Scheduler.exe" into cmd and click enter
+3. Paste "Scheduler.exe" into cmd and click enter
