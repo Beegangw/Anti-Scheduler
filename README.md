@@ -1,5 +1,8 @@
 # Anti-Scheduler
 
+Shout out UnMonsieur for the inspiration! 
+
+
 This program will check for deleted tasks and will scan files that match this regex " ^([A-Z]:\\.+\.(dll|exe)|"[A-Z]:\\.+\.(dll|exe)")$" for unsigned files. 
 
 
