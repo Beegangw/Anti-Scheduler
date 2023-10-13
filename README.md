@@ -1,5 +1,4 @@
-This program will check for deleted tasks and will scan files that match this regex " ^([A-Z]:\\.+\.(dll|exe)|"[A-Z]:\\.+\.(dll|exe)")$" for unsigned files. 
-
+This program will check for deleted tasks and will scan for unsigned exes & dlls
 
 How to use:
 1. Open cmd as admin
